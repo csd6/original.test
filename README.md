@@ -1,2 +1,1 @@
-# original.test、
-#？？？？
+# original.test
